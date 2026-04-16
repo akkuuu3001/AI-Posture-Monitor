@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1dwsdmdudONeUEZUXqHrbsU1F7dL8i3m8?usp=sharing
+![Open in Colab(https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1dwsdmdudONeUEZUXqHrbsU1F7dL8i3m8?usp=sharing
 # AI-Based Posture and Screen Distance Monitoring System
 
 ## Overview
